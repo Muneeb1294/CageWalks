@@ -57,6 +57,33 @@
   "supports": "Supports: Jpg , JPEG2000 , PNG",
   "upload": "Upload",
   "please_enter_name": "Please enter name",
+  "enter_name":"Enter name",
+  "please_enter_your_name": "Please enter your name",
+  "name_length": "Name should be longer than 3 characters",
+  "incorrect_name": "Incorrect name",
+  "add_new_sub_admin": "Add New Sub Admin",
+  "sub_admin_table": "Sub Admin Table",
+  "picture": "Picture",
+  "gender": "Gender",
+  "email": "Email",
+  "role": "Role",
+  "add_sub_admin": "Add Sub-Admin",
+  "upload_picture": "Upload Picture",
+  "first_name": "First Name",
+  "last_name": "Last Name",
+  "male": "Male",
+  "Female": "Female",
+  "confirm_password":"Confirm password",
+  "confirm_password_camel":"Confirm Password",
+  "assign_role": "Assign Role",
+  "categories_management": "Categories Management",
+  "tournament_management": "Tournament Management",
+  "banners_management": "Banners Management",
+  "users_management": "Users Management",
+  "content_management": "Content Management",
+  "assigned_role": "Assigned Role",
+  "please_enter_the_first_name": "Please enter first name",
+  "please_enter_the_Last_name": "Please enter last name",
   "": "",
 
 
@@ -64,34 +91,16 @@
 
 
 
-  "lets_start":"Let's Start",
-  "press_again_to_exit":"Press again to exit",
-  "welcome_caps":"WELCOME",
-  "account_log_in":"Account Log In",
 
-  "or_sign_in_using":"Or Sign in Using",
-  "dont_have_an_account":"Don't have an account ?",
-  "signup":"Sign up",
-  "enter_name":"Enter name",
+
   "enter_password":"Enter password",
-  "confirm_password":"Confirm password",
-  "you_agree_with_all":"You agree with all",
-  "and":"and",
-  "privacy_policy":"privacy policy",
-  "already_have_an_account":"Already have an account ?",
-  "sign_in":"Sign in",
-  "please_enter_your_name": "Please enter your name",
-  "name_length": "Name should be longer than 3 characters",
-  "incorrect_name": "Incorrect name",
-  "enter_otp":"Enter OTP",
-  "one_time_password_sent_to_your_number":"One time password sent to your number",
-  "enter_otp_to_verify_your_account":"Enter  OTP to verify your account.",
+
+
+
+
+
   "proceed":"Proceed",
   "congratulations":"Congratulations",
-  "you_are_all_signed_up_now_lets_login":"You're all signed up! Now, let's login.",
-  "resend_code":"Resend code",
-  "change_number":"Change Number",
-  "enter_your_registered_phone_number_and_we'll_send_you_one_time_password":"Enter your registered Phone number and we'll send you one time password.",
   "next":"Next",
   "new_password":"New Password",
   "must_include_upper_case_numbers_and_symbols":"must include upper case, numbers and symbols.",
@@ -115,8 +124,6 @@
   "old_password":"Old Password",
   "edit_profile":"Edit Profile",
   "update":"Update",
-  "application":"Application",
-  "text":"Text",
   "please_enter_your_old_password":"Please enter your old password",
   "old_password_consists_minimum_8_character":"Old password must consist of 8 characters",
   "old_password_should_include_1_number":"Old password should include number",
@@ -124,7 +131,6 @@
   "please_enter_your_new_password":"Please enter new password",
   "new_password_consists_minimum_8_character":"New password should consist of 8 characters",
   "new_password_should_include_1_number":"New password should include number",
-  "new_password_should_include_1_special_char":"New password should include special character",
-  "invalid_otp":"Invalid OTP",
-  "please_enter_6_digit_otp":"Please enter six digit OTP"
+  "new_password_should_include_1_special_char":"New password should include special character"
+
 }
