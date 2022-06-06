@@ -85,43 +85,39 @@
   "please_enter_the_first_name": "Please enter first name",
   "please_enter_the_Last_name": "Please enter last name",
   "tournaments": "Tournaments",
-  "": "",
-
-
-
-
-
-
-
-
   "enter_password":"Enter password",
-
-
-
-
-
-  "proceed":"Proceed",
-  "congratulations":"Congratulations",
-  "next":"Next",
-  "new_password":"New Password",
-  "must_include_upper_case_numbers_and_symbols":"must include upper case, numbers and symbols.",
-  "you_successfully_changed_your_password":"You successfully changed your password.",
-  "provide_phone_number":"Provide Phone Number",
-  "please_provide_phone_number_to_verify_your_account":"Please provide phone number to verify your account .",
-  "you're_all_signed_up":"You're all signed up!",
-  "interests":"Interests",
-  "skip":"Skip",
-  "please_choose_your_interests_below":"Please choose your interests below.",
-  "select_all":"Select All",
-  "deselect_all":"Deselect All",
-  "calendar":"Calendar",
-  "change_password":"Change Password",
-  "notifications":"Notifications",
-  "terms_and_conditions":"Terms and conditions",
-  "logout":"Logout",
-  "are_you_sure_you_to_logout":"Are you sure you want to logout?",
-  "cancel":"Cancel",
-  "apply":"Apply",
+  "expired":"Expired",
+  "tournaments_table":"Tournaments Table",
+  "add_tournament":"Add Tournament",
+  "view_tournament":"View \nTournament",
+  "start_date":"Start Date",
+  "players_table":"Players \nTable",
+  "tournament_title": "Tournament Title",
+  "enter_title": "Enter title",
+  "start_time": "Start Time",
+  "select_time": "Select Time",
+  "select_date": "Select Date",
+  "end_time": "End Time",
+  "end_date": "End Date",
+  "add_players": "Add Players",
+  "add_player": "Add Player",
+  "player_name": "Player Name",
+  "enter": "Enter",
+  "select_gender": "Select gender",
+  "banners_table": "Banners Table",
+  "add_banner": "Add Banner",
+  "banner_title": "Banner Title",
+  "added": "Added",
+  "select_banner_picture": "Select banner picture",
+  "supports1": "Supports: Jpg , JPEG , PNG",
+  "banner_name": "Banner Name",
+  "manage_users_table": "Manage Users Table",
+  "add": "Add",
+  "add_privacy_policy": "Add Privacy Policy",
+  "write_here": "Write here",
+  "basic_detail": "Basic Detail",
+  "add_terms_&_conditions": "Add Terms & Conditions",
+  "add_disclaimer": "Add Disclaimer",
   "old_password":"Old Password",
   "edit_profile":"Edit Profile",
   "update":"Update",
@@ -132,6 +128,20 @@
   "please_enter_your_new_password":"Please enter new password",
   "new_password_consists_minimum_8_character":"New password should consist of 8 characters",
   "new_password_should_include_1_number":"New password should include number",
-  "new_password_should_include_1_special_char":"New password should include special character"
-
+  "new_password_should_include_1_special_char":"New password should include special character",
+  "proceed":"Proceed",
+  "congratulations":"Congratulations",
+  "next":"Next",
+  "new_password":"New Password",
+  "must_include_upper_case_numbers_and_symbols":"must include upper case, numbers and symbols.",
+  "change_password":"Change Password",
+  "terms_and_conditions":"Terms and conditions",
+  "logout":"Logout",
+  "are_you_sure_you_to_logout":"Are you sure you want to logout?",
+  "cancel":"Cancel",
+  "apply":"Apply",
+  "fight":"Fight",
+  "add_fight":"Add Fight",
+  "pin_fight":"Pin Fight",
+  "": ""
 }
