@@ -54,6 +54,7 @@
   "category_name": "Category Name",
   "add_category": "Add Category",
   "select_picture": "Select picture",
+  "select_player": "Select player",
   "supports": "Supports: Jpg , JPEG2000 , PNG",
   "upload": "Upload",
   "please_enter_name": "Please enter name",
@@ -142,6 +143,9 @@
   "apply":"Apply",
   "fight":"Fight",
   "add_fight":"Add Fight",
+  "add_new_fight":"Add New Fight",
   "pin_fight":"Pin Fight",
+  "player_1":"Player 1",
+  "player_2":"Player 2",
   "password_stars": "************"
 }

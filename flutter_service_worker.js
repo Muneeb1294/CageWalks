@@ -31,7 +31,7 @@ const RESOURCES = {
 "assets/assets/images/text_logo.png": "7232cb22e20dc73f4d4378b2ee2c44a5",
 "assets/assets/images/uploadImage.png": "ba6d161dee9e2253856e3bb217024b73",
 "assets/assets/images/users.png": "f07141434374bfc6037de3a7df6e302e",
-"assets/assets/translations/en.json": "4dc45499120e63c2674c6ede13a57081",
+"assets/assets/translations/en.json": "bd46d46149d9d8b74b97b167873e8839",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "18938dc3d93fce2ee3c0684889115627",
@@ -45,9 +45,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "f649191e7330111c1dfbcf47f471d2ed",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "af5044ea40b1c821c82612f64dabc29f",
-"/": "af5044ea40b1c821c82612f64dabc29f",
-"main.dart.js": "ecad8839724657a9d039649a85fca958",
+"index.html": "06a82bc40d681b38311ce3e63a53d488",
+"/": "06a82bc40d681b38311ce3e63a53d488",
+"main.dart.js": "8544a525f7f16856fc36d5398ae8074e",
 "manifest.json": "31e2d731f34e3389c3c25b0f73d8519a",
 "version.json": "0e329fcdb1692905c4da736128a21f8f"
 };
