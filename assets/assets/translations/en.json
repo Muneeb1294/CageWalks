@@ -112,7 +112,7 @@
   "supports1": "Supports: Jpg , JPEG , PNG",
   "banner_name": "Banner Name",
   "manage_users_table": "Manage Users Table",
-  "add": "Add",
+  "add": "+ ADD",
   "add_privacy_policy": "Add Privacy Policy",
   "write_here": "Write here",
   "basic_detail": "Basic Detail",
@@ -143,5 +143,5 @@
   "fight":"Fight",
   "add_fight":"Add Fight",
   "pin_fight":"Pin Fight",
-  "": ""
+  "password_stars": "************"
 }
