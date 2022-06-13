@@ -60,7 +60,7 @@
   "please_enter_name": "Please enter name",
   "enter_name":"Enter name",
   "please_enter_your_name": "Please enter your name",
-  "name_length": "Name should be longer than 3 characters",
+  "name_length": "Name should be longer than 2 characters",
   "incorrect_name": "Incorrect name",
   "add_new_sub_admin": "Add New Sub Admin",
   "sub_admin_table": "Sub Admin Table",
