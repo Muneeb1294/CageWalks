@@ -53,6 +53,8 @@
   "delete": "Delete",
   "category_name": "Category Name",
   "add_category": "Add Category",
+  "select_category": "Select Category",
+  "category": "Category",
   "select_picture": "Select picture",
   "select_player": "Select player",
   "supports": "Supports: Jpg , JPEG2000 , PNG",
