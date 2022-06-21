@@ -52040,7 +52040,7 @@ a1z(a){var s=0,r=A.E(t.H),q=this,p
 var $async$$1=A.A(function(b,c){if(b===1)return A.B(c,r)
 while(true)switch(s){case 0:p=q.a
 p.b=a
-if(a.ax===1){A.aWn($.aa(),B.oG,t.z)
+if(a.ax!==0){A.aWn($.aa(),B.oG,t.z)
 A.fn("You have been blocked by the admin")}p.K()
 return A.C(null,r)}})
 return A.D($async$$1,r)},
