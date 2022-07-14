@@ -61,6 +61,7 @@
   "upload": "Upload",
   "please_enter_name": "Please enter name",
   "enter_name":"Enter name",
+  "enter_url":"Enter url",
   "please_enter_your_name": "Please enter your name",
   "name_length": "Name should be longer than 2 characters",
   "incorrect_name": "Incorrect name",
@@ -157,5 +158,6 @@
   "pin_fight":"Pin Fight",
   "player_1":"Player 1",
   "player_2":"Player 2",
+  "redirect_url":"Redirect Url",
   "password_stars": "************"
 }
