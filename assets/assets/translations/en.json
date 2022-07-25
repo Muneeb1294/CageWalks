@@ -159,5 +159,9 @@
   "player_1":"Player 1",
   "player_2":"Player 2",
   "redirect_url":"Redirect Url",
+  "fight_index":"Fight\nIndex",
+  "fight_index2":"Fight Index",
+  "enter_index":"Enter index",
+  "edit_fight":"Edit Fight",
   "password_stars": "************"
 }
